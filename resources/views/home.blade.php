@@ -19,7 +19,7 @@
     </head>
     <body>
         <div id="app">
-            Olá
+            <x-forms.select-countries />
         </div>
     </body>
 </html>
